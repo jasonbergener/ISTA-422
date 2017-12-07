@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASP-Lab-7", "ASP-Lab-7\ASP-Lab-7.csproj", "{BBD814FA-F80E-4F20-B4BC-BDD5006AF67E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASP-Lab-7.Tests", "ASP-Lab-7.Tests\ASP-Lab-7.Tests.csproj", "{9C0D8188-3273-494A-8BE6-329C06EE5AB8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BBD814FA-F80E-4F20-B4BC-BDD5006AF67E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBD814FA-F80E-4F20-B4BC-BDD5006AF67E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBD814FA-F80E-4F20-B4BC-BDD5006AF67E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBD814FA-F80E-4F20-B4BC-BDD5006AF67E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C0D8188-3273-494A-8BE6-329C06EE5AB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C0D8188-3273-494A-8BE6-329C06EE5AB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C0D8188-3273-494A-8BE6-329C06EE5AB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C0D8188-3273-494A-8BE6-329C06EE5AB8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {16FA0E15-64B0-4703-A16F-2DD3FC57172A}
+	EndGlobalSection
+EndGlobal
